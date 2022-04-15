@@ -1,0 +1,101 @@
+Ruby 27/03/2022
+
+História e Características 
+ - Criada na década de 90 pelo Japonês Yukihiro "Matz" Matsumoto
+ - Lançamento ao público em 1995
+ - Orientada a objetos
+ - Tipagem dinâmica e forte
+ - Interpretada
+ - Expansão ligada a criação do Ruby on Rails
+
+Porque aprender Ruby?
+ - É uma linguagem Produtiva e Divertida
+ - É Fácil aprender
+ - Tem uma grande comunidade
+ - É usada por grandes empresas
+ - Está presente em várias áreas
+ - Top 10 anos índices de popularidade 
+
+Instalação
+ - Rbenv
+ - Codeanywhere 
+
+Primeiro Hello Word
+
+Missões especiais
+ - Instale o Ruby na sua máquina ou prepare o codeanywhere
+ - Exiba no console a seguinte mensagem: "Hello Word"
+ - Leia o seguinte artigo: Ruby (Linguagem de programação) 
+
+Tipos de dados
+ => Existem para classificar dados, possibilitando a definição de regras para cada tipo. Com eles o ruby sabe como lidar com os dados de nossos progrmas.
+
+Integer
+ => Como na matemática, Inteiro é o tipo de dados que representa o conjunto de números positivos, negativos e 0.
+
+Float
+ => Tipo qeu representa os números reais inexatos. De forma abreviada, são números decimais, números que contêm ponto flutuante.
+
+Boolean
+ => Tipo de dados usado para informar a veracidade de algo. Possui apenas dois estados, sendo eles true que é uma instância da classe TrueClass e false que é uma instância da classe FalseClass.
+
+String
+ => Tipo que representa um texto. Um conjunto de letras, símbolso ou números. Pode ser definido de várias formas, porém, as mais comuns são dentro de aspas simples ou duplas.
+
+Arry
+ => Um tipo que nos permite armazenar uma lista ordenada de dados em um único objeto.
+	Para definir um arry você deve utilizar colchetes.
+Symbol
+ => Símbolo é um tipo de dado semelhante a String, com a diferença de que ele é um obejto imutável. Duas strings idênticas podem ser objetos diferentes, mas um símbolo é apenas um objeto, ocupando sempre o mesmo espaço na memória. Um símbolo sempre é definido começando com dois pontos: seguido de seu nome.
+
+Hash
+ => Tipo que representa uma coleção de dados organizados por chaves únicas e seus repectivos valores. Enquanto arrys são definidos com colchetes, hashes são definidos com chaves '{}'
+
+Tipagem dinâmica
+ No ruby não é preciso definir o tipo de dado antes de atribuir um valor à uma variável. O tipo é dinâmico, ou seja, ele é definido de acordo com o dado atribuído.
+
+Operadores Matemáticos
+ Para resolver operações matemáticas no ruby contamos com a seguinte lista de operadores aritméticos:
+ + Adição                    /  Divisão
+ - Subtração                 %  Módulo
+ * Multiplicação             ** Expoente  
+
+Entrada/ Saída
+ Essas duas operações manipulam dados, com a diferença que a entrada ocorre quando o programa lê dados que podem ter sido recebidos de um teclado, de um arquivo, ou então de outro programa e a saída é um dado produzido pelo programa que pode ser exibido em uma tela, enviado para um arquivo ou então para outro programa.
+
+
+Missões Especiais
+ - No IRB, Crie todos os principais tipos de dados mencionados na aula com valores diferentes dos exemplos.
+ - Crie um programa que receba o nome e idade de uma pessoa e no final exiba estes dois dados em uma única frase.
+ - Crie um programa que receba dois números inteiros e no final exiba a soma, a subtração, a adição e a divisão entre eles.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
