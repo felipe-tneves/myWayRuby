@@ -69,19 +69,51 @@ Missões Especiais
  - Crie um programa que receba o nome e idade de uma pessoa e no final exiba estes dois dados em uma única frase.
  - Crie um programa que receba dois números inteiros e no final exiba a soma, a subtração, a adição e a divisão entre eles.
 
+Estrutura de controle
+ Tratam-se de código que escrevemos em nossos programas para analisar dados e decidir qual caminho seguir. Divide-se em dois tipos: Condicional e Iteração
+
+Condicional
+ Tipo de estrutura de controle que executa um trecho de código dependendo do resultado de uma condição.
+ A seguir, veja as Instruções Condicionais: If, Else, Elsif, Unless e Case
+
+IF
+ Expressão que verifica se uma condição é verdadeira(true), e a partir deste resultado determina se as instruções dentro de seu corpo serão ou não executadas.
+
+Else
+ Informa o que fazer qando a verificação de uma condicão if for falsa.
+
+ElsIf
+ Utilizado quando há a necessidade de verificar mais de uma condição em um if.
+
+Unless
+ Enquanto o if é executado quando sua condição é verdadeira, o unless ocorre de forma contrária. É executado apenas quando a condição é falsa.
+
+Case
+ Instrução muito parecida com o if. Ele se enquadra muito bem a situações com diversas condições.
+
+Iteração
+ Tipo de estrutura de controle que gerencial quantas vezes um trecho de código será executado.
+ A seguir, veja as instruções de iteração: For, While, Times, Do/While
+
+FOR
+ Usado para percorrer uma coleção de elementos.
+
+While
+ Instrução que repete um bloco de código enquanto sua condição é verdadeira.
+
+Times
+ Executa uma repetição por um determinado número de vezes.
+
+DO/While - Loop
+ Ele cria um laço de repetição que só é parado quando uma instrução break for verdadeira.
 
 
+Missão especial
+ Utilizando as estruturas de iteração e condição, crie uma calculadora que ofereça as usuário a opção de multiplicar, dividir, adicionar ou subtrair dois números.
+Não esqueça de também permitir que o usuário feche o progrma.
 
-
-
-
-
-
-
-
-
-
-
+Exercicios extras
+https://ifrnead.github.io/rubynapratica/contents/programacao_estruturada/lista_exercicios_1.html
 
 
 
