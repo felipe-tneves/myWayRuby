@@ -115,13 +115,17 @@ Não esqueça de também permitir que o usuário feche o progrma.
 Exercicios extras
 https://ifrnead.github.io/rubynapratica/contents/programacao_estruturada/lista_exercicios_1.html
 
+https://acervolima.com/ruby-modulo-matematico/
 
 
 
+Método	                   Descrição	                                Exemplo
+<valor>.to_i	Converte <valor> para um número inteiro (Integer)	"10".to_i
+<valor>.to_f	Converte <valor> para um número real (Float)	        "3.14".to_f
+<valor>.to_s	Converte <valor> para uma String	                 12.to_s
 
 
-
-
+Mas qual é a diferença entre o puts e o print? A diferença é que o puts dá uma quebra de linha após exibir a String, enquanto o print não o faz. 
 
 
 
