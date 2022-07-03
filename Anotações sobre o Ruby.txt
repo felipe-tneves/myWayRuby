@@ -726,4 +726,25 @@ A instrução puts é uma abreviação de "put string" e automaticamente move o 
 
 
 
+Tabela 1 - Operadores aritméticos
+Nome	Símbolo	Descrição	Exemplo
+Adição ou soma	+	Soma dois valores	2 + 3 = 5
+Subtração	-	Subtrai dois valores	4 - 2 = 2
+Multiplicação	*	Multiplica dois valores	2 * 2 = 4
+Divisão	/	Divide dois valores	13 / 4 = 3
+Módulo (resto da divisão)	%	Calcula o resto da divisão entre dois valores	13 % 4 = 1
+Potência	**	Calcula a potência entre dois valores	2 ** 3 = 8
+
+
+Tabela 1 - Operadores relacionais
+Operador	Nome	Exemplo	Descrição
+==	Igualdade	a == b	Resulta true se a for igual a b, resulta false caso contrário
+!=	Diferente	a != b	Resulta true se a for diferente de b, resulta false caso contrário
+>	Maior que	a > b	Resulta true se a for maior que b, resulta false caso contrário
+<	Menor que	a < b	Resulta true se a for menor que b, resulta false caso contrário
+>=	Maior ou igual	a >= b	Resulta true se a for maior ou igual a b, resulta false caso contrário
+<=	Menor ou igual	a <= b	Resulta true se a for menor ou igual a b, resulta false caso contrário
+<=>	-	a <=> b	Resulta 0 se a for igual a b. Retorna 1 se a for maior que b e retorna -1 se a for menor que b
+
+
 
