@@ -40,11 +40,11 @@ Boolean
  => Tipo de dados usado para informar a veracidade de algo. Possui apenas dois estados, sendo eles true que é uma instância da classe TrueClass e false que é uma instância da classe FalseClass.
 
 String
- => Tipo que representa um texto. Um conjunto de letras, símbolso ou números. Pode ser definido de várias formas, porém, as mais comuns são dentro de aspas simples ou duplas.
+ => Tipo que representa um texto. Um conjunto de letras, símbolso ou números. Pode ser definido de várias formas, porém, as mais comuns são dentro de aspas simples ou duplas.""/ ''
 
-Arry
+Array
  => Um tipo que nos permite armazenar uma lista ordenada de dados em um único objeto.
-	Para definir um arry você deve utilizar colchetes.
+	Para definir um arry você deve utilizar colchetes.[]
 Symbol
  => Símbolo é um tipo de dado semelhante a String, com a diferença de que ele é um obejto imutável. Duas strings idênticas podem ser objetos diferentes, mas um símbolo é apenas um objeto, ocupando sempre o mesmo espaço na memória. Um símbolo sempre é definido começando com dois pontos: seguido de seu nome.
 
@@ -720,9 +720,9 @@ Dado o seguinte hash:
 Numbers = {A:10, B:30 2, C:20, D:25, E:15}
 Crie uma instrução que seleciona o maior valor deste hash e no final imprima a chave e valor do elemento resultante 
 
+Diferença entre o print e o puts no ruby
 
-
-
+A instrução puts é uma abreviação de "put string" e automaticamente move o cursor para a próxima linha. A instrução print é usada quando queremos escrever e manter o cursor na mesma linha.
 
 
 
